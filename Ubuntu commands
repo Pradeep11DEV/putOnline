@@ -1,0 +1,4 @@
+#To open a file 
+=> sudo nano 'file path or file name';
+#To remove a file
+=>sudo rm -rf <directory or file>
